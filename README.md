@@ -1,6 +1,6 @@
 # bitrisesample
 
-A new Flutter project, for testing. 
+A new Flutter project, for testing. I'll open a PR from this. 
 
 ## Getting Started
 
