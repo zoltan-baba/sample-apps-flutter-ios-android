@@ -1,6 +1,6 @@
 # bitrisesample
 
-A new Flutter project, for testing. Let's check this thing out. 
+A new Flutter project, for testing. Let's check this thing out. New commit.
 
 ## Getting Started
 
